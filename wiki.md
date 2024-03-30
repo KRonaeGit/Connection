@@ -7,21 +7,21 @@ Star mark '*' means this is a professional(difficult) part.
 
 ## Usage
 ### Client: [class Connector](Connector.md)
-- [Write](client/write.md)
+- Write packets [Write](client/write.md)
 - Custom Connector [class Connection](Connection.md)*
 ### Server: [class Connectable](Connectable.md)
-- [Write](server/write.md)
+- Write packets [Write](server/write.md)
 - Client Connect Listener [class Connected](Connected.md)*
 ### Packet: [class Packet](Packet.md)
-- [class PacketBuilder](packet/PacketBuilder.md)
-- [CustomPacket](packet/custom.md)*
-- [interface WritablePacket](packet/WritablePacket.md)*
+- Create Packet easier [class PacketBuilder](packet/PacketBuilder.md)
+- Create your CUSTOM packet [CustomPacket](packet/custom.md)*
+  - Important to create custom packets [interface WritablePacket](packet/WritablePacket.md)*
 
-- [interface ReadableStream](packet/ReadableStream.md)*
-- [class ReadingStream](packet/ReadingStream.md)*
-- [interface WritableStream](packet/WritableStream.md)*
-- [class WritingStream](packet/WritingStream.md)*
+- Readable [interface ReadableStream](packet/ReadableStream.md)*
+- Make you can read [class ReadingStream](packet/ReadingStream.md)*
+- Writable [interface WritableStream](packet/WritableStream.md)*
+- Make you can write, So I know [class WritingStream](packet/WritingStream.md)*
 ### Util [package: util](util.md)
-- [class Port](util/Port.md)
-- [utility class ByteParse](util/ByteParse.md)
-- [utility class BigEndianParse](util/bigendianparse.md)*
+- Port, 0~65535 [class Port](util/Port.md)
+- Object to byte[], byte[] to Object[utility class ByteParse](util/ByteParse.md)
+- Big Endian Parser [utility class BigEndianParse](util/bigendianparse.md)*
