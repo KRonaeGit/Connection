@@ -22,5 +22,5 @@ Star mark '*' means this is a professional(difficult) part.
 - Make you can write, So I know [class WritingStream](packet/WritingStream.md)*
 ### Util [package: util](util/util.md)
 - Port, 0~65535 [class Port](util/Port.md)
-- Object to byte[], byte[] to Object[utility class ByteParse](util/ByteParse.md)
+- Object to byte[], byte[] to Object [utility class ByteParse](util/ByteParse.md)
 - Big Endian Parser [utility class BigEndianParse](util/bigendianparse.md)*
