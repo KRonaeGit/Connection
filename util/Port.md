@@ -18,4 +18,6 @@ You can create an instance of Port very easily.
 If you want to get the port of Port , you can use the method `public int getPort()` to get the unsigned short port value in int format. This value is the port we often use.
 
 > **Additional, Professional, Difficult**
-> If you want to get a signed short value in big endian, you can use `public short getRawPort()`. If you need to use it to store or communicate data, you should use getRawPort() to save memory.
+>
+> If you want to get a signed short value in big endian, you can use `public short getRawPort()`.
+> If you need to use it to store or communicate data, you should use getRawPort() to save memory.
