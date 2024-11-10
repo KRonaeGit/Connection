@@ -1,0 +1,5 @@
+test\v1\ExampleRawClient.class
+test\v1\ExampleClient.class
+test\v2\MessageProcessor.class
+test\v1\ExampleServer.class
+test\v2\ExampleServer.class

@@ -1,0 +1,13 @@
+kronaegit\connection\server\ServerConnection$1.class
+kronaegit\connection\ConnectionListener.class
+kronaegit\connection\Connection.class
+kronaegit\connection\server\ServerConnection.class
+kronaegit\connection\server\leagacy\Pender.class
+kronaegit\connection\ClientEventListener.class
+kronaegit\connection\server\ClientProcessor.class
+kronaegit\connection\server\leagacy\LeagacyServerConnection.class
+kronaegit\connection\ClientEventListener$1.class
+kronaegit\connection\server\leagacy\Pender$1.class
+kronaegit\connection\server\ServerEventListener.class
+kronaegit\connection\server\ServerEventListener$1.class
+kronaegit\connection\server\ClientConnection.class
